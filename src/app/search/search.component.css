@@ -1,0 +1,32 @@
+.search{
+  
+    margin: 40px auto;
+    text-align: center;
+    font-size: 20px;
+    background-color: #fb521d;
+    height: 400px;
+    width: 1000px;
+}
+
+.search input{
+    width: 40%;
+    padding: 8px 16px;
+    margin-top: 20px;
+}
+
+h3{
+    color : white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.para1{
+    color: white;
+    padding: 25px;
+    
+}
+.para2{
+    color: white;
+    padding: 25px;
+    font-size: 15px;
+}
